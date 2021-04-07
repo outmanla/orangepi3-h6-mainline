@@ -1,4 +1,4 @@
-# orangepi3-h6-mainline
+0675808818# orangepi3-h6-mainline
 Mainline kernel Orange Pi 3 (Allwinner H6) with USB3, WiFi, Ethernet, PCI-E patches. EL2 Hypervisor for quirky PCI-E controller.
 
 ### Content
